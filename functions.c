@@ -1,4 +1,6 @@
 #include "main.h"
+#include "limits"
+#include "<stdio.h>"
 
 /************************* PRINT CHAR *************************/
 
